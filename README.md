@@ -1,4 +1,4 @@
-# Me Cybersecurity Dashboard
+# My Cybersecurity Dashboard
 
 A lightweight React + Vite starter for small security utilities and a dashboard UI. This repository contains UI components, example pages (tools), layout, and small utility modules for common security tasks.
 
